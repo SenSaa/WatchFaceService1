@@ -593,7 +593,7 @@ public class WatchFaceService1 extends CanvasWatchFaceService {
 
 
                 // Shadow Layer
-                mSecondPaint.setShadowLayer(3,secX,secY,shadowColor);
+                ////mSecondPaint.setShadowLayer(3,secX,secY,shadowColor);
 
 
                 // Illuminating ticks following the "second" watch hand (before & after the "second" hand.
